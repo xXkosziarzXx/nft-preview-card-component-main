@@ -31,7 +31,7 @@ body
 .view
 {
     background-color: hsl(178, 100%, 50%);
-    opacity: 0;
+    opacity: 1%;
     height:290px;
     width: 290px;
     display:flex;
