@@ -28,7 +28,7 @@ body
     height:290px; 
     border-radius:15px;
 }
-.imagehold
+.view
 {
     background-color: hsl(178, 100%, 50%);
     opacity: 0;
@@ -39,7 +39,7 @@ body
     justify-content:space-around;
     border-radius:15px;
 }
-.imagehold:hover
+.view:hover
 {
     background-color: hsl(178, 100%, 50%);
     opacity: 60%;
